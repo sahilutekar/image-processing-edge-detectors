@@ -17,7 +17,6 @@ To run this code, you will need to have OpenCV installed on your machine. You ca
 
 
 Code Exlpain 
-Sure, here's an explanation of the code:
 1.	Import the necessary libraries:
 import cv2
 import numpy as np
